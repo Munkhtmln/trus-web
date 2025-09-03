@@ -1,7 +1,7 @@
 export default function Header() {
   return (
-    <div className="bg-blue-400 h-[50px] w-full flex justify-center items-center">
-      Header
+    <div className="bg-gray-900 h-[50px] w-full flex justify-center text-lg items-center">
+      Luis Keepoli Mongolia
     </div>
   );
 }
